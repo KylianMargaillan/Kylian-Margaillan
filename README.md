@@ -6,5 +6,5 @@
 <p> - 📖  Actuellement en premier année de DUT ! </p>
  <p> - 📫 Contactez moi à <strong> kylian.margaillan@gmail.com </strong> </p>
  <p> -🌐 N'hesitez pas à visiter <strong><a href="http://kylianmargaillan.alwaysdata.net/">  mon site web</a> </strong> pour en apprendre plus sur moi ! </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KylianMargaillan&show_icons=true&locale=en&layout=compact" alt="Profil" /></p>
+<img  src="https://github-readme-stats.vercel.app/api?username=KylianMargaillan&show_icons=true&locale=en" alt="profil" /></p>
 
